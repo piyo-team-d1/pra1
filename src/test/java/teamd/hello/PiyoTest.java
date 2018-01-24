@@ -36,6 +36,6 @@ public class PiyoTest
         assertTrue( true );
     	Piyo piyo = new Piyo();
         assertEquals("piyo",piyo.getPassword("hoge"));
-        assertEquals("hoyo",piyo.getPassword("hoyo"));
+        assertEquals("hoyo",piyo.getPassword("hoyoyo"));
     }
 }
