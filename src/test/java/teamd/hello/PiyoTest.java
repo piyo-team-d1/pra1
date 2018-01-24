@@ -34,5 +34,8 @@ public class PiyoTest
     public void testPiyo()
     {
         assertTrue( true );
+    	App ap = new App();
+        assertEquals("piyo",ap.getPassword("hoge"));
+        assertEquals("hoyo",ap.getPassword("hoyo"));
     }
 }
