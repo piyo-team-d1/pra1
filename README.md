@@ -1,23 +1,23 @@
 Travis CI メモ
 
-#Travisって何
+# Travisって何
 公式ドキュメント
 [(url)](https://docs.travis-ci.com/user/getting-started/)  
 GitHubと連携できる継続的インテグレーションツール「Travis CI」入門
 [(url)](https://knowledge.sakura.ad.jp/3754/)  
   
-###travisで何をするの?CIって何?
+### travisで何をするの?CIって何?
 Travis CI 入門：GitHub + Travis CI で継続的インテグレーション
 [(url)](http://tetsuwo.tumblr.com/post/44706350593/github-travis-continuous-integration)  
 
 
-#.travis.ymlって何
+# .travis.ymlって何
 公式ドキュメント
 [(url)](https://docs.travis-ci.com/user/customizing-the-build/)  
 Travis CI: .travis.yml 記述例
 [(url)](https://gist.github.com/spiegel-im-spiegel/2e9ebb6e5d7a8bf20f8d)	
 
-#####.ymlに各ステップごとのスクリプトを書くといろいろ実行できるらしい
+##### .ymlに各ステップごとのスクリプトを書くといろいろ実行できるらしい
 	
 
 **インストール**
@@ -40,5 +40,5 @@ Travis CI: .travis.yml 記述例
 	9. after_script
 
 
-#webhookって何
+# webhookって何
 調べてません
