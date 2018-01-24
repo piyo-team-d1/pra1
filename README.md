@@ -1,4 +1,4 @@
-Travis CI　ymlメモ
+Travis CI メモ
 
 #Travisって何
 公式ドキュメント
