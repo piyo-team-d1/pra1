@@ -7,7 +7,7 @@ public class Piyo
 {
 	private Map<String, String> idPassMap = new HashMap<String, String>()
 	{
-		{put("hoyo", "hoyoyo");}
+		//{put("hoyo", "hoyoyo");}
 		{put("hoge", "piyo");}
 		{put("hoyo", "hoyoyo");}
 		{put("oyo", "oyoyo");}
