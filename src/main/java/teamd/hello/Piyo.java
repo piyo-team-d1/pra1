@@ -20,7 +20,7 @@ public class Piyo
     }
 	
 	public String getPassword(String userId) {
-		//return idPassMap.get(userId);
-		return null;
+		return idPassMap.get(userId);
+		//return null;
 	}
 }
