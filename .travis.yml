@@ -13,7 +13,7 @@ deploy:
     repo: piyo-team-d1/pra1
     all_branches: true
     tags: true
-notifications:
+  notifications:
   slack:
     secure: "SBGW6W4uf2LBLr/WrGzH/p+nvrVVyjhvg40tEYuqNBs/kxHbGtk6tILtDMUbfx3uql2YuNP1qV4575ZPpTOP3oxJYsakBGXwV7mKPROqOFCKdPVDhyXfoBdLdEGLvHipjiGCgHTfwaa8ZhyHL6BVnRJd7SFQF3E/4hdG8OFtJ
 Zen0KdIoPfSv/00gpn4RayppifJuQ1PEh/OmorGYwztn4iWpLN74jK9yp7Nn+pDcz3hswT/Xoc3ODJt70rEiPCG6FaDjVSOrj50BkLT7PbeE2k8rDTH2IdudcXm/+NJ9GW/QuLzCKeTGM/BT0t3xOydOEIvzL85wBu90SDnD/7hfGwG6r1lA
