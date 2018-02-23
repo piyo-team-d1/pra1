@@ -12,7 +12,6 @@ deploy:
   on:
     repo: piyo-team-d1/pra1
     all_branches: true
-    tags: false
 notifications:
   slack:
     secure: "SBGW6W4uf2LBLr/WrGzH/p+nvrVVyjhvg40tEYuqNBs/kxHbGtk6tILtDMUbfx3uql2YuNP1qV4575ZPpTOP3oxJYsakBGXwV7mKPROqOFCKdPVDhyXfoBdLdEGLvHipjiGCgHTfwaa8ZhyHL6BVnRJd7SFQF3E/4hdG8OFtJ
